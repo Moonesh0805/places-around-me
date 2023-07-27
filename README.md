@@ -277,7 +277,7 @@ Write your own steps here.
 </html>
 ```
 ## Output:
-![map](./static/images/map.jpeg)
+![map](./map.jpeg)
 ![bus](./bus.png)
 ![junction](./junction.png)
 ![hospital](./hospital.png)
