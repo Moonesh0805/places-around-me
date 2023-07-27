@@ -285,4 +285,4 @@ Write your own steps here.
 ![theatre](./theatre.png)
 
 ## Result:
-The program for implementing image map is executed sucessfully
+The program for implementing image map is executed sucessfully.
